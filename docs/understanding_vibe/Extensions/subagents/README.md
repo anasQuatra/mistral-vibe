@@ -31,6 +31,6 @@ To contribute to this documentation:
 
 ## Related Documentation
 
-- [Main README](../../README.md)
-- [ADR 0007 - Extension Mechanisms](../adr/0007-extension-mechanisms.md)
-- [ADR 0009 - App Server Boundary](../adr/0009-app-server-boundary.md)
+- [Main README](../../../../README.md)
+- [ADR 0007 - Extension Mechanisms](../../../adr/0007-extension-mechanisms.md)
+- [ADR 0009 - App Server Boundary](../../../adr/0009-app-server-boundary.md)
